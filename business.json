@@ -1,0 +1,197 @@
+{   "id":1,
+   "Nom":"McPollo",
+   "Poblacio":"Barcelona",
+   "Direccio":"Plaça de Celestí Boada Salvador, 31, 4H",
+   "Codi Postal":"08014",
+   "Coordenades":{
+      "latitud":"41.3887901",
+      "longitud":"2.1589899"
+   
+},
+   "Telefon":"634134576",
+   "Horaris":[      {
+         "dow":1,
+         "inici":"13:00",
+         "final":"14:30"
+      
+},
+      {
+         "dow":1,
+         "inici":"20:00",
+         "final":"21:30"
+      
+},
+      {
+         "dow":2,
+         "inici":"13:00",
+         "final":"14:30"
+      
+},
+      {
+         "dow":2,
+         "inici":"20:00",
+         "final":"21:30"
+      
+},
+      {
+         "dow":3,
+         "inici":"13:00",
+         "final":"14:30"
+      
+},
+      {
+         "dow":3,
+         "inici":"20:00",
+         "final":"21:30"
+      
+},
+      {
+         "dow":4,
+         "inici":"13:00",
+         "final":"14:30"
+      
+},
+      {
+         "dow":4,
+         "inici":"20:00",
+         "final":"21:30"
+      
+},
+      {
+         "dow":5,
+         "inici":"13:00",
+         "final":"14:30"
+      
+},
+      {
+         "dow":5,
+         "inici":"20:00",
+         "final":"21:30"
+      
+},
+      {
+         "dow":6,
+         "inici":"13:00",
+         "final":"14:30"
+      
+},
+      {
+         "dow":6,
+         "inici":"20:00",
+         "final":"21:30"
+      
+}
+   
+],
+   "Categories":[
+      "hamburgeseria",
+      "comida rapida"
+   
+],
+   "Productes":[      {         "nom":{
+            "es":"hamburgesa pollito Pio",
+            "en":"burger pollito Pio",
+            "ita":"hamburger pollito Pio"
+         
+},
+         "descripció":{
+            "es":"receta original hecha con pollo 100% ternera",
+            "en":"original recipe made with 100% veal chicken",
+            "ita":"ricetta originale realizzato con pollo al 100% di vitello"
+         
+},
+         "categories":[
+            "segundo plato",
+            "carne"
+         
+],
+         "preu":"12.50",
+         "extres":[            {
+               "es":"queso",
+               "en":"cheese",
+               "ita":"formaggio",
+               "preu":"2.3"
+            
+},
+            {
+               "es":"cebolla",
+               "en":"onion",
+               "ita":"cipolla",
+               "preu":"0.50"
+            
+}
+         
+],
+         "al·lèrgens":[            {
+               "es":"gluten",
+               "en":"gluten",
+               "ita":"glutine"
+            
+},
+            {
+               "es":"huevos",
+               "en":"eggs",
+               "ita":"uova"
+            
+}
+         
+],
+         "foto":"imgBurgers/pollitoPio.jpg"
+      
+},
+      {         "nom":{
+            "es":"Chicken Little",
+            "en":"Chicken Little",
+            "ita":"Chicken Little"
+         
+},
+         "descripció":{
+            "es":"hamburgesa de pelicula hecha con pollo 100% ternera",
+            "en":"movie burger made with 100% veal chicken",
+            "ita":"Burger film realizzato con pollo al 100% di vitello"
+         
+},
+         "categories":[
+            "segundo plato",
+            "carne",
+            "infantil"
+         
+],
+         "preu":"9.50",
+         "extres":[            {
+               "es":"queso",
+               "en":"cheese",
+               "ita":"formaggio",
+               "preu":"2.3"
+            
+},
+            {
+               "es":"cebolla",
+               "en":"onion",
+               "ita":"cipolla",
+               "preu":"0.50"
+            
+},
+            {
+               "es":"beicon",
+               "en":"bacon",
+               "ita":"bacon",
+               "preu":"1.50"
+            
+}
+         
+],
+         "al·lèrgens":[            {
+               "es":"gluten",
+               "en":"gluten",
+               "ita":"glutine"
+            
+}
+         
+],
+         "foto":"imgBurgers/ChickenLittle.jpg"
+      
+}
+   
+]
+}
